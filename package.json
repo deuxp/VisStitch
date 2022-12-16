@@ -1,0 +1,27 @@
+{
+  "name": "visstitch",
+  "version": "1.0.0",
+  "description": "Experimental video stitcher",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deuxp/VisStitch.git"
+  },
+  "keywords": [
+    "mp4",
+    "mkv"
+  ],
+  "author": "Gottfried Kleinberger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deuxp/VisStitch/issues"
+  },
+  "homepage": "https://github.com/deuxp/VisStitch#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
